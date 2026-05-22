@@ -1,0 +1,4 @@
+*.as linguist-language=ArsenScript
+*.as linguist-vendored
+*.as linguist-detectable=true
+*.as linguist-documentation=false
